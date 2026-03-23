@@ -3,8 +3,8 @@
 ## Nombre: Agustín Inzunza
 
 # Paso 0
-1.- Descargar, instalar Git
-2.- Descargar, instalar VSC
+1.- Descargar, instalar `Git`
+2.- Descargar, instalar `VSC`
 3.- Crear un directorio y abrir VSC
 4.- Abrir terminal y probar los comandos:
     git -v == ver version de git
