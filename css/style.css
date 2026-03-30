@@ -1,0 +1,10 @@
+body{
+    padding: 0px 200px;
+}
+p{
+    padding: 30px;
+    border-radius: 15px;
+    background-color: beige;
+    text-align: justify;
+    font-size: 15px;
+}
